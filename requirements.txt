@@ -1,0 +1,6 @@
+python-telegram-bot
+colorama
+aiohttp
+pymongo
+python-dateutil
+flask
